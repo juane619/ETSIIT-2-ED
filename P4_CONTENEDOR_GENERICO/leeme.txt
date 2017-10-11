@@ -1,0 +1,8 @@
+Practica 4:
+
+Integrantes:
+	-Juan Emilio García Martínez
+	-Adrián Jesús Peña Rodríguez
+
+Para probar la práctica, hemos incluido los 6 supuestos que vienen en el pdf "documentacion"
+por separado, en el que solo hay que comentar/descomentar cada una de las partes a probar.
